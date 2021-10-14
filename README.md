@@ -96,10 +96,3 @@ Only the 'Admin' user can input 'ds' to display statistics, the display_stats() 
 # Contributers
 
 I worked on this project on my own and it was reviewed and commented on by my mentor at Hyperion Development
-
-
-
-
-
-
- 
