@@ -84,5 +84,22 @@ Only the 'Admin' user can input 'ds' to display statistics, the display_stats() 
 
 # How to use this Task Mananger? 
 
+* To run this programme, you need to download the Python interpreter program onto your computer operating system so that this Task Manager programme can be exercuted.
+* Link to download Python on your computer(e.g Mac, Linux, Windows etc.) https://www.python.org/downloads/
+* The existing text files ('tasks.txt' and 'user.txt') and generated text files('task_overview.txt' and the 'user_overview.txt') can be viewed with a simple Notepad app. This     app comes with Windows OS
+* Link to download an appropriate Notepad app to view text file, https://notepad-plus-plus.org/downloads/
+* Once you have 'tasks.txt' and 'user.txt'(Task Manager files to use), and Notepad and Python are downloaded successfully, you need IDLE(An Intergrated Development Environment).   IDLE is a safe environment to view and run your code. Python comes with built-in IDLE that can be accessed easily by opening the IDLE files from the program with the Python     interpreter
+* Once IDLE is opened it will display a "Shell" window, from the window, click "File", then click "Open" from the Toolbar(top of the Window) to open the task_manager.py
+* To run the task_manager.py , click "Run" from the top Toolbar and check the output that shows in the Python shell Window.
+* If the user choose 'gr' to generate reports, the text files will be created in the same folder and you can view then in the Notepad
+
+# Contributers
+
+I worked on this project on my own and it was reviewed and commented on by my mentor at Hyperion Development
+
+
+
+
+
 
  
